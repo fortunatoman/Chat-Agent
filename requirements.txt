@@ -1,0 +1,4 @@
+llama-index
+setuptools
+pypdf
+pymupdf
