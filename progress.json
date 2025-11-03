@@ -67,6 +67,10 @@
     {
       "date": "2025-11-03T14:37:00",
       "message": "chore: configure Dependabot for automated dependency updates"
+    },
+    {
+      "date": "2025-11-03T14:37:00",
+      "message": "chore: add GitHub issue and pull request templates"
     }
   ],
   "last_commit_date": "2025-11-03T14:37:00"
