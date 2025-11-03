@@ -39,6 +39,10 @@
     {
       "date": "2025-11-03T14:37:00",
       "message": "chore: add .nvmrc specifying Node.js version 20"
+    },
+    {
+      "date": "2025-11-03T14:37:00",
+      "message": "chore: configure VS Code workspace settings and recommended extensions"
     }
   ],
   "last_commit_date": "2025-11-03T14:37:00"
