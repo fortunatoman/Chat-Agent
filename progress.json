@@ -63,6 +63,10 @@
     {
       "date": "2025-11-03T14:37:00",
       "message": "chore: add CODE_OF_CONDUCT.md"
+    },
+    {
+      "date": "2025-11-03T14:37:00",
+      "message": "chore: configure Dependabot for automated dependency updates"
     }
   ],
   "last_commit_date": "2025-11-03T14:37:00"
