@@ -75,6 +75,10 @@
     {
       "date": "2025-11-03T14:37:00",
       "message": "chore: initialize CHANGELOG.md following keep-a-changelog format"
+    },
+    {
+      "date": "2025-11-03T14:37:00",
+      "message": "chore: add security policy (SECURITY.md)"
     }
   ],
   "last_commit_date": "2025-11-03T14:37:00"
