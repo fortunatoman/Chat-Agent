@@ -15,6 +15,10 @@
     {
       "date": "2025-11-03T14:37:00",
       "message": "chore: configure ESLint and Prettier for consistent code formatting"
+    },
+    {
+      "date": "2025-11-03T14:37:00",
+      "message": "chore: add .editorconfig for cross-editor consistency"
     }
   ],
   "last_commit_date": "2025-11-03T14:37:00"
