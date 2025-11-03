@@ -7,6 +7,10 @@
     {
       "date": "2025-11-03T14:37:00",
       "message": "chore: set up monorepo structure with frontend and backend directories"
+    },
+    {
+      "date": "2025-11-03T14:37:00",
+      "message": "chore: add MIT license file"
     }
   ],
   "last_commit_date": "2025-11-03T14:37:00"
