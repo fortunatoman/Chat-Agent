@@ -87,6 +87,10 @@
     {
       "date": "2025-11-03T14:37:00",
       "message": "chore: configure TypeScript with strict mode"
+    },
+    {
+      "date": "2025-11-03T14:37:00",
+      "message": "chore: set up Tailwind CSS with custom design tokens"
     }
   ],
   "last_commit_date": "2025-11-03T14:37:00"
