@@ -139,6 +139,10 @@
     {
       "date": "2025-11-05T11:53:00",
       "message": "chore: set up Framer Motion for animations"
+    },
+    {
+      "date": "2025-11-05T11:53:00",
+      "message": "chore: configure PWA plugin and service worker"
     }
   ],
   "last_commit_date": "2025-11-05T11:53:00"
