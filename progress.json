@@ -143,6 +143,10 @@
     {
       "date": "2025-11-05T11:53:00",
       "message": "chore: configure PWA plugin and service worker"
+    },
+    {
+      "date": "2025-11-05T11:53:00",
+      "message": "chore: add bundle analyzer for build optimization"
     }
   ],
   "last_commit_date": "2025-11-05T11:53:00"
