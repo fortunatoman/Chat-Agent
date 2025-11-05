@@ -151,6 +151,10 @@
     {
       "date": "2025-11-05T11:53:00",
       "message": "chore: configure code splitting and lazy loading"
+    },
+    {
+      "date": "2025-11-05T11:53:00",
+      "message": "chore: set up Sentry for frontend error tracking"
     }
   ],
   "last_commit_date": "2025-11-05T11:53:00"
