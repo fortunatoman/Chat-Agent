@@ -99,6 +99,10 @@
     {
       "date": "2025-11-05T11:53:00",
       "message": "chore: configure Zustand for global state management"
+    },
+    {
+      "date": "2025-11-05T11:53:00",
+      "message": "chore: integrate React Query for server state management"
     }
   ],
   "last_commit_date": "2025-11-05T11:53:00"
