@@ -163,6 +163,10 @@
     {
       "date": "2025-11-05T11:53:00",
       "message": "chore: initialize Express.js server with TypeScript"
+    },
+    {
+      "date": "2025-11-05T11:53:00",
+      "message": "chore: configure ts-node-dev for hot reloading in development"
     }
   ],
   "last_commit_date": "2025-11-05T11:53:00"
