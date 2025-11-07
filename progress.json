@@ -167,7 +167,11 @@
     {
       "date": "2025-11-05T11:53:00",
       "message": "chore: configure ts-node-dev for hot reloading in development"
+    },
+    {
+      "date": "2025-11-07T10:18:00",
+      "message": "chore: add Helmet.js for security headers"
     }
   ],
-  "last_commit_date": "2025-11-05T11:53:00"
+  "last_commit_date": "2025-11-07T10:18:00"
 }
