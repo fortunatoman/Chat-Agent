@@ -191,6 +191,10 @@
     {
       "date": "2025-11-07T10:18:00",
       "message": "chore: set up Prisma ORM and connect to PostgreSQL"
+    },
+    {
+      "date": "2025-11-07T10:18:00",
+      "message": "chore: add Zod for API request/response validation"
     }
   ],
   "last_commit_date": "2025-11-07T10:18:00"
