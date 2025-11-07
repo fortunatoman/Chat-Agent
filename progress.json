@@ -207,6 +207,10 @@
     {
       "date": "2025-11-07T10:18:00",
       "message": "chore: set up Redis client for caching"
+    },
+    {
+      "date": "2025-11-07T10:18:00",
+      "message": "chore: configure Nodemailer for transactional emails"
     }
   ],
   "last_commit_date": "2025-11-07T10:18:00"
