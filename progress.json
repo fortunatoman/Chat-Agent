@@ -267,6 +267,10 @@
     {
       "date": "2025-11-10T09:24:00",
       "message": "chore: add HTTPX for async HTTP client calls"
+    },
+    {
+      "date": "2025-11-10T09:24:00",
+      "message": "chore: set up Celery with Redis broker for task queue"
     }
   ],
   "last_commit_date": "2025-11-10T09:24:00"
