@@ -247,6 +247,10 @@
     {
       "date": "2025-11-10T09:24:00",
       "message": "chore: add Pydantic models for request/response schemas"
+    },
+    {
+      "date": "2025-11-10T09:24:00",
+      "message": "chore: configure SQLAlchemy ORM with async support"
     }
   ],
   "last_commit_date": "2025-11-10T09:24:00"
