@@ -211,6 +211,10 @@
     {
       "date": "2025-11-07T10:18:00",
       "message": "chore: configure Nodemailer for transactional emails"
+    },
+    {
+      "date": "2025-11-07T10:18:00",
+      "message": "chore: add Swagger/OpenAPI documentation setup"
     }
   ],
   "last_commit_date": "2025-11-07T10:18:00"
