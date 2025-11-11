@@ -303,6 +303,10 @@
     {
       "date": "2025-11-11T12:41:00",
       "message": "chore: create initial PostgreSQL schema design"
+    },
+    {
+      "date": "2025-11-11T12:41:00",
+      "message": "feat: add users table with authentication fields"
     }
   ],
   "last_commit_date": "2025-11-11T12:41:00"
