@@ -279,6 +279,10 @@
     {
       "date": "2025-11-10T09:24:00",
       "message": "chore: configure Poetry for dependency management"
+    },
+    {
+      "date": "2025-11-10T09:24:00",
+      "message": "chore: add pre-commit with black, isort, and flake8"
     }
   ],
   "last_commit_date": "2025-11-10T09:24:00"
