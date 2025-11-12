@@ -355,6 +355,10 @@
     {
       "date": "2025-11-12T17:42:00",
       "message": "feat: add sessions table for persistent login support"
+    },
+    {
+      "date": "2025-11-12T17:42:00",
+      "message": "feat: create media table for file metadata storage"
     }
   ],
   "last_commit_date": "2025-11-12T17:42:00"
