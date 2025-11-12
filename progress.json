@@ -351,6 +351,10 @@
     {
       "date": "2025-11-12T17:42:00",
       "message": "feat: create audit_logs table for change tracking"
+    },
+    {
+      "date": "2025-11-12T17:42:00",
+      "message": "feat: add sessions table for persistent login support"
     }
   ],
   "last_commit_date": "2025-11-12T17:42:00"
