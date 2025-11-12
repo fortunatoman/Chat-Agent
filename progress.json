@@ -339,6 +339,10 @@
     {
       "date": "2025-11-12T17:42:00",
       "message": "feat: add addresses table linked to users"
+    },
+    {
+      "date": "2025-11-12T17:42:00",
+      "message": "feat: create reviews table with rating constraints"
     }
   ],
   "last_commit_date": "2025-11-12T17:42:00"
