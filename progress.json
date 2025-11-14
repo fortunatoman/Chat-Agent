@@ -395,6 +395,10 @@
     {
       "date": "2025-11-14T12:38:00",
       "message": "feat: add created_at and updated_at triggers"
+    },
+    {
+      "date": "2025-11-14T12:38:00",
+      "message": "feat: seed initial admin user and default roles"
     }
   ],
   "last_commit_date": "2025-11-14T12:38:00"
