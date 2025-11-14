@@ -375,6 +375,10 @@
     {
       "date": "2025-11-14T12:38:00",
       "message": "feat: create cart and cart_items tables"
+    },
+    {
+      "date": "2025-11-14T12:38:00",
+      "message": "feat: add inventory table with stock tracking"
     }
   ],
   "last_commit_date": "2025-11-14T12:38:00"
