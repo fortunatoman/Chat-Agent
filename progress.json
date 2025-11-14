@@ -367,6 +367,10 @@
     {
       "date": "2025-11-12T17:42:00",
       "message": "feat: create coupons table with usage tracking"
+    },
+    {
+      "date": "2025-11-12T17:42:00",
+      "message": "feat: add wishlists table linked to users and products"
     }
   ],
   "last_commit_date": "2025-11-12T17:42:00"
