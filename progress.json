@@ -411,6 +411,10 @@
     {
       "date": "2025-11-14T12:38:00",
       "message": "perf: add partial index for active users"
+    },
+    {
+      "date": "2025-11-14T12:38:00",
+      "message": "feat: configure connection pooling with PgBouncer"
     }
   ],
   "last_commit_date": "2025-11-14T12:38:00"
