@@ -399,6 +399,10 @@
     {
       "date": "2025-11-14T12:38:00",
       "message": "feat: seed initial admin user and default roles"
+    },
+    {
+      "date": "2025-11-14T12:38:00",
+      "message": "feat: add sample product and category seed data"
     }
   ],
   "last_commit_date": "2025-11-14T12:38:00"
