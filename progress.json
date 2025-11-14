@@ -391,6 +391,10 @@
     {
       "date": "2025-11-14T12:38:00",
       "message": "feat: implement soft delete with deleted_at timestamp columns"
+    },
+    {
+      "date": "2025-11-14T12:38:00",
+      "message": "feat: add created_at and updated_at triggers"
     }
   ],
   "last_commit_date": "2025-11-14T12:38:00"
