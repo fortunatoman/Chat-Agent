@@ -383,6 +383,10 @@
     {
       "date": "2025-11-14T12:38:00",
       "message": "perf: add indexes on frequently queried foreign keys"
+    },
+    {
+      "date": "2025-11-14T12:38:00",
+      "message": "perf: add composite index on orders (user_id, created_at)"
     }
   ],
   "last_commit_date": "2025-11-14T12:38:00"
