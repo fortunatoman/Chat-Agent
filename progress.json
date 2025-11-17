@@ -451,6 +451,10 @@
     {
       "date": "2025-11-17T11:06:00",
       "message": "feat: add GitHub OAuth provider"
+    },
+    {
+      "date": "2025-11-17T11:06:00",
+      "message": "feat: implement two-factor authentication (TOTP)"
     }
   ],
   "last_commit_date": "2025-11-17T11:06:00"
