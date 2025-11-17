@@ -443,6 +443,10 @@
     {
       "date": "2025-11-17T11:06:00",
       "message": "feat: add password reset functionality"
+    },
+    {
+      "date": "2025-11-17T11:06:00",
+      "message": "feat: implement OAuth2 Google sign-in"
     }
   ],
   "last_commit_date": "2025-11-17T11:06:00"
