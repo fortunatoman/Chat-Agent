@@ -455,6 +455,10 @@
     {
       "date": "2025-11-17T11:06:00",
       "message": "feat: implement two-factor authentication (TOTP)"
+    },
+    {
+      "date": "2025-11-17T11:06:00",
+      "message": "feat: add QR code generation for 2FA setup"
     }
   ],
   "last_commit_date": "2025-11-17T11:06:00"
