@@ -447,6 +447,10 @@
     {
       "date": "2025-11-17T11:06:00",
       "message": "feat: implement OAuth2 Google sign-in"
+    },
+    {
+      "date": "2025-11-17T11:06:00",
+      "message": "feat: add GitHub OAuth provider"
     }
   ],
   "last_commit_date": "2025-11-17T11:06:00"
