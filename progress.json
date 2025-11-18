@@ -479,6 +479,10 @@
     {
       "date": "2025-11-18T13:58:00",
       "message": "feat: implement session management with device tracking"
+    },
+    {
+      "date": "2025-11-18T13:58:00",
+      "message": "feat: add email change with verification workflow"
     }
   ],
   "last_commit_date": "2025-11-18T13:58:00"
