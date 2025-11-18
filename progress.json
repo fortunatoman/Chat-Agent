@@ -471,6 +471,10 @@
     {
       "date": "2025-11-18T13:58:00",
       "message": "feat: implement permission-based authorization guards"
+    },
+    {
+      "date": "2025-11-18T13:58:00",
+      "message": "feat: add account lockout after failed login attempts"
     }
   ],
   "last_commit_date": "2025-11-18T13:58:00"
