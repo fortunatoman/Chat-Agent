@@ -543,6 +543,10 @@
     {
       "date": "2025-11-20T16:28:00",
       "message": "feat(users): add admin get user by ID endpoint"
+    },
+    {
+      "date": "2025-11-20T16:28:00",
+      "message": "feat(users): implement admin update user roles"
     }
   ],
   "last_commit_date": "2025-11-20T16:28:00"
