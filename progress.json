@@ -519,6 +519,10 @@
     {
       "date": "2025-11-20T16:28:00",
       "message": "feat(frontend/auth): add auth context and useAuth hook"
+    },
+    {
+      "date": "2025-11-20T16:28:00",
+      "message": "feat(users): implement get user profile endpoint"
     }
   ],
   "last_commit_date": "2025-11-20T16:28:00"
