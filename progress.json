@@ -587,6 +587,10 @@
     {
       "date": "2025-11-20T16:28:00",
       "message": "feat: add list products with pagination, sorting, filtering"
+    },
+    {
+      "date": "2025-11-20T16:28:00",
+      "message": "feat: implement get product by ID or slug"
     }
   ],
   "last_commit_date": "2025-11-20T16:28:00"
