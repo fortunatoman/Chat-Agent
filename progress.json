@@ -539,6 +539,10 @@
     {
       "date": "2025-11-20T16:28:00",
       "message": "feat(users): implement admin list users with pagination and filters"
+    },
+    {
+      "date": "2025-11-20T16:28:00",
+      "message": "feat(users): add admin get user by ID endpoint"
     }
   ],
   "last_commit_date": "2025-11-20T16:28:00"
