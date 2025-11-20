@@ -527,6 +527,10 @@
     {
       "date": "2025-11-20T16:28:00",
       "message": "feat(users): add update profile endpoint with validation"
+    },
+    {
+      "date": "2025-11-20T16:28:00",
+      "message": "feat(users): implement avatar upload and processing"
     }
   ],
   "last_commit_date": "2025-11-20T16:28:00"
