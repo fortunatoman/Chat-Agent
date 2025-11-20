@@ -567,6 +567,10 @@
     {
       "date": "2025-11-20T16:28:00",
       "message": "feat(frontend/users): add user detail modal in admin panel"
+    },
+    {
+      "date": "2025-11-20T16:28:00",
+      "message": "feat(users): implement user activity log"
     }
   ],
   "last_commit_date": "2025-11-20T16:28:00"
