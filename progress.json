@@ -563,6 +563,10 @@
     {
       "date": "2025-11-20T16:28:00",
       "message": "feat(frontend/users): create admin user management table"
+    },
+    {
+      "date": "2025-11-20T16:28:00",
+      "message": "feat(frontend/users): add user detail modal in admin panel"
     }
   ],
   "last_commit_date": "2025-11-20T16:28:00"
