@@ -591,6 +591,10 @@
     {
       "date": "2025-11-20T16:28:00",
       "message": "feat: implement get product by ID or slug"
+    },
+    {
+      "date": "2025-11-20T16:28:00",
+      "message": "feat: add update product endpoint"
     }
   ],
   "last_commit_date": "2025-11-20T16:28:00"
