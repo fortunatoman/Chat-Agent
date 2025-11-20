@@ -583,6 +583,10 @@
     {
       "date": "2025-11-20T16:28:00",
       "message": "feat: implement create product endpoint"
+    },
+    {
+      "date": "2025-11-20T16:28:00",
+      "message": "feat: add list products with pagination, sorting, filtering"
     }
   ],
   "last_commit_date": "2025-11-20T16:28:00"
