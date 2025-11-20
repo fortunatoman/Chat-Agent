@@ -559,6 +559,10 @@
     {
       "date": "2025-11-20T16:28:00",
       "message": "feat(frontend/users): add profile edit form with avatar upload"
+    },
+    {
+      "date": "2025-11-20T16:28:00",
+      "message": "feat(frontend/users): create admin user management table"
     }
   ],
   "last_commit_date": "2025-11-20T16:28:00"
