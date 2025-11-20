@@ -595,6 +595,10 @@
     {
       "date": "2025-11-20T16:28:00",
       "message": "feat: add update product endpoint"
+    },
+    {
+      "date": "2025-11-20T16:28:00",
+      "message": "feat: implement soft delete product"
     }
   ],
   "last_commit_date": "2025-11-20T16:28:00"
