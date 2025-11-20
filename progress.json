@@ -579,6 +579,10 @@
     {
       "date": "2025-11-20T16:28:00",
       "message": "test(users): add tests for user CRUD operations"
+    },
+    {
+      "date": "2025-11-20T16:28:00",
+      "message": "feat: implement create product endpoint"
     }
   ],
   "last_commit_date": "2025-11-20T16:28:00"
