@@ -707,6 +707,10 @@
     {
       "date": "2025-11-21T11:35:00",
       "message": "feat(admin/categories): create category management tree view"
+    },
+    {
+      "date": "2025-11-21T11:35:00",
+      "message": "feat(cart): implement add item to cart endpoint"
     }
   ],
   "last_commit_date": "2025-11-21T11:35:00"
