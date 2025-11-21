@@ -711,6 +711,10 @@
     {
       "date": "2025-11-21T11:35:00",
       "message": "feat(cart): implement add item to cart endpoint"
+    },
+    {
+      "date": "2025-11-21T11:35:00",
+      "message": "feat(cart): add update cart item quantity"
     }
   ],
   "last_commit_date": "2025-11-21T11:35:00"
