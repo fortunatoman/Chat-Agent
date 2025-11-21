@@ -687,6 +687,10 @@
     {
       "date": "2025-11-21T11:35:00",
       "message": "feat(categories): add nested category tree endpoint"
+    },
+    {
+      "date": "2025-11-21T11:35:00",
+      "message": "feat(categories): implement category slug generation"
     }
   ],
   "last_commit_date": "2025-11-21T11:35:00"
