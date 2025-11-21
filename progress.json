@@ -615,6 +615,10 @@
     {
       "date": "2025-11-21T11:35:00",
       "message": "feat: implement product bulk import from CSV"
+    },
+    {
+      "date": "2025-11-21T11:35:00",
+      "message": "feat: add product export functionality"
     }
   ],
   "last_commit_date": "2025-11-21T11:35:00"
