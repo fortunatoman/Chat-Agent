@@ -695,6 +695,10 @@
     {
       "date": "2025-11-21T11:35:00",
       "message": "feat(categories): add category image upload"
+    },
+    {
+      "date": "2025-11-21T11:35:00",
+      "message": "feat(frontend/categories): build category navigation menu"
     }
   ],
   "last_commit_date": "2025-11-21T11:35:00"
