@@ -699,6 +699,10 @@
     {
       "date": "2025-11-21T11:35:00",
       "message": "feat(frontend/categories): build category navigation menu"
+    },
+    {
+      "date": "2025-11-21T11:35:00",
+      "message": "feat(frontend/categories): add category page with product listing"
     }
   ],
   "last_commit_date": "2025-11-21T11:35:00"
