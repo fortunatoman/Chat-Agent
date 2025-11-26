@@ -751,6 +751,10 @@
     {
       "date": "2025-11-26T09:01:00",
       "message": "feat(wishlist): implement move wishlist item to cart"
+    },
+    {
+      "date": "2025-11-26T09:01:00",
+      "message": "feat(frontend/cart): build shopping cart sidebar"
     }
   ],
   "last_commit_date": "2025-11-26T09:01:00"
