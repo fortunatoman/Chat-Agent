@@ -807,6 +807,10 @@
     {
       "date": "2025-11-26T09:01:00",
       "message": "feat(orders): add admin list all orders with filters"
+    },
+    {
+      "date": "2025-11-26T09:01:00",
+      "message": "feat(orders): implement order fulfillment workflow"
     }
   ],
   "last_commit_date": "2025-11-26T09:01:00"
