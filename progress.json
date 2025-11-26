@@ -799,6 +799,10 @@
     {
       "date": "2025-11-26T09:01:00",
       "message": "feat(orders): add order tracking information endpoint"
+    },
+    {
+      "date": "2025-11-26T09:01:00",
+      "message": "feat(orders): implement order invoice PDF generation"
     }
   ],
   "last_commit_date": "2025-11-26T09:01:00"
