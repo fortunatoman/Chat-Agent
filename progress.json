@@ -779,6 +779,10 @@
     {
       "date": "2025-11-26T09:01:00",
       "message": "feat(orders): implement place order from cart endpoint"
+    },
+    {
+      "date": "2025-11-26T09:01:00",
+      "message": "feat(orders): add get order by ID endpoint"
     }
   ],
   "last_commit_date": "2025-11-26T09:01:00"
