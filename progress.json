@@ -923,6 +923,10 @@
     {
       "date": "2025-11-28T11:44:00",
       "message": "feat(frontend/reviews): build review list component"
+    },
+    {
+      "date": "2025-11-28T11:44:00",
+      "message": "feat(frontend/reviews): add review form with star rating"
     }
   ],
   "last_commit_date": "2025-11-28T11:44:00"
