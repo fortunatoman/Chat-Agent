@@ -907,6 +907,10 @@
     {
       "date": "2025-11-28T11:44:00",
       "message": "feat(reviews): implement update and delete own review"
+    },
+    {
+      "date": "2025-11-28T11:44:00",
+      "message": "feat(reviews): add admin moderation for reviews"
     }
   ],
   "last_commit_date": "2025-11-28T11:44:00"
