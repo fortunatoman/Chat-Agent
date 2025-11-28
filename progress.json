@@ -847,6 +847,10 @@
     {
       "date": "2025-11-28T11:44:00",
       "message": "feat(payments): add Stripe webhook handler"
+    },
+    {
+      "date": "2025-11-28T11:44:00",
+      "message": "feat(payments): implement payment confirmation flow"
     }
   ],
   "last_commit_date": "2025-11-28T11:44:00"
