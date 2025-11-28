@@ -867,6 +867,10 @@
     {
       "date": "2025-11-28T11:44:00",
       "message": "feat(payments): implement subscription billing with Stripe"
+    },
+    {
+      "date": "2025-11-28T11:44:00",
+      "message": "feat(payments): add payment failure retry logic"
     }
   ],
   "last_commit_date": "2025-11-28T11:44:00"
