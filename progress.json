@@ -887,6 +887,10 @@
     {
       "date": "2025-11-28T11:44:00",
       "message": "feat(frontend/payments): add order summary on checkout page"
+    },
+    {
+      "date": "2025-11-28T11:44:00",
+      "message": "feat(frontend/payments): implement payment method selection"
     }
   ],
   "last_commit_date": "2025-11-28T11:44:00"
