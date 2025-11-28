@@ -899,6 +899,10 @@
     {
       "date": "2025-11-28T11:44:00",
       "message": "feat(reviews): implement create review endpoint"
+    },
+    {
+      "date": "2025-11-28T11:44:00",
+      "message": "feat(reviews): add list reviews for product with pagination"
     }
   ],
   "last_commit_date": "2025-11-28T11:44:00"
