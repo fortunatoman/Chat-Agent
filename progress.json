@@ -891,6 +891,10 @@
     {
       "date": "2025-11-28T11:44:00",
       "message": "feat(frontend/payments): implement payment method selection"
+    },
+    {
+      "date": "2025-11-28T11:44:00",
+      "message": "test(payments): add mock tests for Stripe payment flow"
     }
   ],
   "last_commit_date": "2025-11-28T11:44:00"
