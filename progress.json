@@ -823,6 +823,10 @@
     {
       "date": "2025-11-26T09:01:00",
       "message": "feat(frontend/orders): create order history page"
+    },
+    {
+      "date": "2025-11-26T09:01:00",
+      "message": "feat(frontend/orders): add order detail page with timeline"
     }
   ],
   "last_commit_date": "2025-11-26T09:01:00"
