@@ -871,6 +871,10 @@
     {
       "date": "2025-11-28T11:44:00",
       "message": "feat(payments): add payment failure retry logic"
+    },
+    {
+      "date": "2025-11-28T11:44:00",
+      "message": "feat(payments): implement tax calculation by region"
     }
   ],
   "last_commit_date": "2025-11-28T11:44:00"
