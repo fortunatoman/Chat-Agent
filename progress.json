@@ -875,6 +875,10 @@
     {
       "date": "2025-11-28T11:44:00",
       "message": "feat(payments): implement tax calculation by region"
+    },
+    {
+      "date": "2025-11-28T11:44:00",
+      "message": "feat(frontend/payments): build checkout flow component"
     }
   ],
   "last_commit_date": "2025-11-28T11:44:00"
