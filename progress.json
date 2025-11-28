@@ -863,6 +863,10 @@
     {
       "date": "2025-11-28T11:44:00",
       "message": "feat(payments): add PayPal payment integration"
+    },
+    {
+      "date": "2025-11-28T11:44:00",
+      "message": "feat(payments): implement subscription billing with Stripe"
     }
   ],
   "last_commit_date": "2025-11-28T11:44:00"
