@@ -927,6 +927,10 @@
     {
       "date": "2025-11-28T11:44:00",
       "message": "feat(frontend/reviews): add review form with star rating"
+    },
+    {
+      "date": "2025-11-28T11:44:00",
+      "message": "feat(frontend/reviews): implement review pagination"
     }
   ],
   "last_commit_date": "2025-11-28T11:44:00"
