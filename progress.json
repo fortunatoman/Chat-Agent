@@ -947,6 +947,10 @@
     {
       "date": "2025-12-01T17:09:00",
       "message": "feat(notifications): add mark all notifications as read"
+    },
+    {
+      "date": "2025-12-01T17:09:00",
+      "message": "feat(notifications): implement real-time notifications via WebSocket"
     }
   ],
   "last_commit_date": "2025-12-01T17:09:00"
