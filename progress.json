@@ -1115,6 +1115,10 @@
     {
       "date": "2025-12-03T14:11:00",
       "message": "docs(api): document order and payment endpoints"
+    },
+    {
+      "date": "2025-12-03T14:11:00",
+      "message": "docs(api): add request/response examples to all endpoints"
     }
   ],
   "last_commit_date": "2025-12-03T14:11:00"
