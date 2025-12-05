@@ -1231,6 +1231,10 @@
     {
       "date": "2025-12-05T14:20:00",
       "message": "feat(ui): create Stepper component for multi-step forms"
+    },
+    {
+      "date": "2025-12-05T14:20:00",
+      "message": "feat(ui): add ProgressBar component"
     }
   ],
   "last_commit_date": "2025-12-05T14:20:00"
