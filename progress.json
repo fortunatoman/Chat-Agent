@@ -1279,6 +1279,10 @@
     {
       "date": "2025-12-05T14:20:00",
       "message": "feat(layout): add responsive grid system utilities"
+    },
+    {
+      "date": "2025-12-05T14:20:00",
+      "message": "feat(home): build hero section with CTA buttons"
     }
   ],
   "last_commit_date": "2025-12-05T14:20:00"
