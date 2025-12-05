@@ -1251,6 +1251,10 @@
     {
       "date": "2025-12-05T14:20:00",
       "message": "feat(layout): add sticky navigation bar"
+    },
+    {
+      "date": "2025-12-05T14:20:00",
+      "message": "feat(layout): implement footer with links and newsletter signup"
     }
   ],
   "last_commit_date": "2025-12-05T14:20:00"
