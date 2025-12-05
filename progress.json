@@ -1283,6 +1283,10 @@
     {
       "date": "2025-12-05T14:20:00",
       "message": "feat(home): build hero section with CTA buttons"
+    },
+    {
+      "date": "2025-12-05T14:20:00",
+      "message": "feat(home): add featured categories section"
     }
   ],
   "last_commit_date": "2025-12-05T14:20:00"
