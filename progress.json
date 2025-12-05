@@ -1227,6 +1227,10 @@
     {
       "date": "2025-12-05T14:20:00",
       "message": "feat(ui): implement Drawer/Sidebar overlay component"
+    },
+    {
+      "date": "2025-12-05T14:20:00",
+      "message": "feat(ui): create Stepper component for multi-step forms"
     }
   ],
   "last_commit_date": "2025-12-05T14:20:00"
