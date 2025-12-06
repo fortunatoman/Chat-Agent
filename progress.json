@@ -1311,6 +1311,10 @@
     {
       "date": "2025-12-06T20:35:00",
       "message": "feat(theme): implement dark mode toggle with system preference detection"
+    },
+    {
+      "date": "2025-12-06T20:35:00",
+      "message": "feat(theme): add theme persistence to localStorage"
     }
   ],
   "last_commit_date": "2025-12-06T20:35:00"
