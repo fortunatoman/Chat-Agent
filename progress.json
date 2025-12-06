@@ -1371,6 +1371,10 @@
     {
       "date": "2025-12-06T20:35:00",
       "message": "perf: implement HTTP/2 support"
+    },
+    {
+      "date": "2025-12-06T20:35:00",
+      "message": "perf: add CDN cache headers for static assets"
     }
   ],
   "last_commit_date": "2025-12-06T20:35:00"
