@@ -1479,6 +1479,10 @@
     {
       "date": "2025-12-09T17:30:00",
       "message": "test: add mutation testing with Stryker"
+    },
+    {
+      "date": "2025-12-09T17:30:00",
+      "message": "ci: add GitHub Actions workflow for PR checks"
     }
   ],
   "last_commit_date": "2025-12-09T17:30:00"
