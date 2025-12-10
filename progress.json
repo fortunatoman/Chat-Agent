@@ -1547,7 +1547,11 @@
     {
       "date": "2025-12-09T17:30:00",
       "message": "infra: configure VPC with public and private subnets"
+    },
+    {
+      "date": "2025-12-10T11:47:00",
+      "message": "infra: set up ECS cluster for container orchestration"
     }
   ],
-  "last_commit_date": "2025-12-09T17:30:00"
+  "last_commit_date": "2025-12-10T11:47:00"
 }
