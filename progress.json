@@ -1555,6 +1555,10 @@
     {
       "date": "2025-12-10T11:47:00",
       "message": "infra: add RDS PostgreSQL instance with Multi-AZ"
+    },
+    {
+      "date": "2025-12-10T11:47:00",
+      "message": "infra: configure ElastiCache Redis cluster"
     }
   ],
   "last_commit_date": "2025-12-10T11:47:00"
