@@ -1551,6 +1551,10 @@
     {
       "date": "2025-12-10T11:47:00",
       "message": "infra: set up ECS cluster for container orchestration"
+    },
+    {
+      "date": "2025-12-10T11:47:00",
+      "message": "infra: add RDS PostgreSQL instance with Multi-AZ"
     }
   ],
   "last_commit_date": "2025-12-10T11:47:00"
