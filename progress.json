@@ -1579,6 +1579,10 @@
     {
       "date": "2025-12-10T11:47:00",
       "message": "infra: configure Route 53 DNS with health check failover"
+    },
+    {
+      "date": "2025-12-10T11:47:00",
+      "message": "infra: add WAF rules for common web attack protection"
     }
   ],
   "last_commit_date": "2025-12-10T11:47:00"
