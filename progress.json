@@ -1595,6 +1595,10 @@
     {
       "date": "2025-12-12T15:28:00",
       "message": "infra: add IAM roles and policies with least privilege"
+    },
+    {
+      "date": "2025-12-12T15:28:00",
+      "message": "infra: configure SSL/TLS certificates with ACM"
     }
   ],
   "last_commit_date": "2025-12-12T15:28:00"
