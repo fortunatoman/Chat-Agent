@@ -1599,6 +1599,10 @@
     {
       "date": "2025-12-12T15:28:00",
       "message": "infra: configure SSL/TLS certificates with ACM"
+    },
+    {
+      "date": "2025-12-12T15:28:00",
+      "message": "feat(monitoring): set up Prometheus metrics collection"
     }
   ],
   "last_commit_date": "2025-12-12T15:28:00"
