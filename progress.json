@@ -1811,6 +1811,10 @@
     {
       "date": "2025-12-16T10:51:00",
       "message": "feat(seo): create robots.txt configuration"
+    },
+    {
+      "date": "2025-12-16T10:51:00",
+      "message": "feat(seo): implement canonical URL tags"
     }
   ],
   "last_commit_date": "2025-12-16T10:51:00"
