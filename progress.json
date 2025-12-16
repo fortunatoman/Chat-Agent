@@ -1763,6 +1763,10 @@
     {
       "date": "2025-12-16T10:51:00",
       "message": "a11y: add ARIA labels to all interactive elements"
+    },
+    {
+      "date": "2025-12-16T10:51:00",
+      "message": "a11y: implement keyboard navigation for all components"
     }
   ],
   "last_commit_date": "2025-12-16T10:51:00"
