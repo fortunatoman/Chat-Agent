@@ -1803,6 +1803,10 @@
     {
       "date": "2025-12-16T10:51:00",
       "message": "feat(seo): implement JSON-LD structured data for products"
+    },
+    {
+      "date": "2025-12-16T10:51:00",
+      "message": "feat(seo): add sitemap generation"
     }
   ],
   "last_commit_date": "2025-12-16T10:51:00"
