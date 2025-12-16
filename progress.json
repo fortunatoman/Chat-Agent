@@ -1819,6 +1819,10 @@
     {
       "date": "2025-12-16T10:51:00",
       "message": "feat(seo): add breadcrumb structured data"
+    },
+    {
+      "date": "2025-12-16T10:51:00",
+      "message": "feat(analytics): integrate Google Analytics 4"
     }
   ],
   "last_commit_date": "2025-12-16T10:51:00"
