@@ -1735,7 +1735,11 @@
     {
       "date": "2025-12-15T16:34:00",
       "message": "feat(i18n): add Spanish (es) translation"
+    },
+    {
+      "date": "2025-12-16T10:51:00",
+      "message": "feat(i18n): add French (fr) translation"
     }
   ],
-  "last_commit_date": "2025-12-15T16:34:00"
+  "last_commit_date": "2025-12-16T10:51:00"
 }
