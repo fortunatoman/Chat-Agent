@@ -1767,6 +1767,10 @@
     {
       "date": "2025-12-16T10:51:00",
       "message": "a11y: implement keyboard navigation for all components"
+    },
+    {
+      "date": "2025-12-16T10:51:00",
+      "message": "a11y: add focus trap for modal dialogs"
     }
   ],
   "last_commit_date": "2025-12-16T10:51:00"
