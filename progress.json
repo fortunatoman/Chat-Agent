@@ -1871,6 +1871,10 @@
     {
       "date": "2025-12-17T13:17:00",
       "message": "feat(responsive): add touch gestures for product image gallery"
+    },
+    {
+      "date": "2025-12-17T13:17:00",
+      "message": "feat(responsive): implement mobile navigation bottom bar"
     }
   ],
   "last_commit_date": "2025-12-17T13:17:00"
