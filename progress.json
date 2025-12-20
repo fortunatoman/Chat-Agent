@@ -1939,6 +1939,10 @@
     {
       "date": "2025-12-20T12:56:00",
       "message": "fix(email): correct broken links in email templates"
+    },
+    {
+      "date": "2025-12-20T12:56:00",
+      "message": "fix(i18n): fix missing translation keys causing blank UI"
     }
   ],
   "last_commit_date": "2025-12-20T12:56:00"
