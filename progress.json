@@ -1963,6 +1963,10 @@
     {
       "date": "2025-12-20T12:56:00",
       "message": "fix(reviews): prevent duplicate review submission on double-click"
+    },
+    {
+      "date": "2025-12-20T12:56:00",
+      "message": "fix(categories): fix circular reference in nested category tree"
     }
   ],
   "last_commit_date": "2025-12-20T12:56:00"
