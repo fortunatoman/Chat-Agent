@@ -1979,6 +1979,10 @@
     {
       "date": "2025-12-20T12:56:00",
       "message": "fix(cors): allow credentials header in CORS configuration"
+    },
+    {
+      "date": "2025-12-20T12:56:00",
+      "message": "fix(seo): resolve duplicate canonical URL tags"
     }
   ],
   "last_commit_date": "2025-12-20T12:56:00"
