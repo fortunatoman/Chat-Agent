@@ -1983,6 +1983,10 @@
     {
       "date": "2025-12-20T12:56:00",
       "message": "fix(seo): resolve duplicate canonical URL tags"
+    },
+    {
+      "date": "2025-12-20T12:56:00",
+      "message": "fix(realtime): handle disconnect event on server restart"
     }
   ],
   "last_commit_date": "2025-12-20T12:56:00"
