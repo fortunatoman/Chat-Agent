@@ -1931,6 +1931,10 @@
     {
       "date": "2025-12-17T13:17:00",
       "message": "fix: prevent memory leak in long-running job workers"
+    },
+    {
+      "date": "2025-12-17T13:17:00",
+      "message": "fix: resolve foreign key violation on order cancellation"
     }
   ],
   "last_commit_date": "2025-12-17T13:17:00"
