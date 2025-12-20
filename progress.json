@@ -1959,6 +1959,10 @@
     {
       "date": "2025-12-20T12:56:00",
       "message": "fix(admin): correct pagination offset calculation"
+    },
+    {
+      "date": "2025-12-20T12:56:00",
+      "message": "fix(reviews): prevent duplicate review submission on double-click"
     }
   ],
   "last_commit_date": "2025-12-20T12:56:00"
