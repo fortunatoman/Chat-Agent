@@ -2079,6 +2079,10 @@
     {
       "date": "2025-12-23T13:58:00",
       "message": "chore: upgrade Stripe SDK to latest version"
+    },
+    {
+      "date": "2025-12-23T13:58:00",
+      "message": "chore: update FastAPI and Pydantic to latest versions"
     }
   ],
   "last_commit_date": "2025-12-23T13:58:00"
