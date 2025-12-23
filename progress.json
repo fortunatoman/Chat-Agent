@@ -2103,6 +2103,10 @@
     {
       "date": "2025-12-23T13:58:00",
       "message": "docs: update README with full project setup instructions"
+    },
+    {
+      "date": "2025-12-23T13:58:00",
+      "message": "docs: add architecture diagram to documentation"
     }
   ],
   "last_commit_date": "2025-12-23T13:58:00"
